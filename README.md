@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/willccbb-mcp-client-server-badge.png)](https://mseep.ai/app/willccbb-mcp-client-server)
+
 # MCP Test Client
 
 An MCP middleware that acts as both a server (to Claude) and a client (to servers under test) for testing MCP servers during development.
